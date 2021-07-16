@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pathfinding-Algo-Visualizer/static/css/main.74ebee39.chunk.css",
+    "main.js": "/Pathfinding-Algo-Visualizer/static/js/main.0f9bcf21.chunk.js",
+    "main.js.map": "/Pathfinding-Algo-Visualizer/static/js/main.0f9bcf21.chunk.js.map",
+    "runtime-main.js": "/Pathfinding-Algo-Visualizer/static/js/runtime-main.bd02fdc1.js",
+    "runtime-main.js.map": "/Pathfinding-Algo-Visualizer/static/js/runtime-main.bd02fdc1.js.map",
+    "static/js/2.074c201f.chunk.js": "/Pathfinding-Algo-Visualizer/static/js/2.074c201f.chunk.js",
+    "static/js/2.074c201f.chunk.js.map": "/Pathfinding-Algo-Visualizer/static/js/2.074c201f.chunk.js.map",
+    "static/js/3.2a110337.chunk.js": "/Pathfinding-Algo-Visualizer/static/js/3.2a110337.chunk.js",
+    "static/js/3.2a110337.chunk.js.map": "/Pathfinding-Algo-Visualizer/static/js/3.2a110337.chunk.js.map",
+    "index.html": "/Pathfinding-Algo-Visualizer/index.html",
+    "static/css/main.74ebee39.chunk.css.map": "/Pathfinding-Algo-Visualizer/static/css/main.74ebee39.chunk.css.map",
+    "static/js/2.074c201f.chunk.js.LICENSE.txt": "/Pathfinding-Algo-Visualizer/static/js/2.074c201f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd02fdc1.js",
+    "static/js/2.074c201f.chunk.js",
+    "static/css/main.74ebee39.chunk.css",
+    "static/js/main.0f9bcf21.chunk.js"
+  ]
+}
